@@ -1,7 +1,6 @@
 # Byteme MBA System - Python Dependencies
 # Compatible with Python 3.10+
 
-streamlit>=1.39
 fastapi>=0.100.0
 uvicorn[standard]>=0.20.0
 python-multipart>=0.0.6
