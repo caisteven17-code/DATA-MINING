@@ -1,0 +1,4 @@
+transaction_id,datetime,item1,price1,item2,price2,item3,price3,item4,price4,item5,price5,item6,price6,item7,price7,item8,price8,item9,price9,item10,price10
+T000003,2/12/2026 12:00,Bacon Burger,159,Onion Rings,69,Coffee,39,,,,,,,,
+T000004,2/12/2026 12:15,Fish Burger,149,French Fries (Large),79,Soft Drink (Large),49,,,,,,,,
+T000005,2/12/2026 12:30,Classic Cheeseburger,129,French Fries (Regular),59,Soft Drink (Regular),39,Sundae,49,,,,,,,
